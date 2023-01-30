@@ -1,4 +1,5 @@
 # FinalYear_project
+![alt text](https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png)
 ON rasperberry pi
 Run VPN script 
 Scan QR code
