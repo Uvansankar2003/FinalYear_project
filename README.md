@@ -2,10 +2,15 @@
 <p align="center">
   <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="350" title="hover text">
  </p>
-ON rasperberry pi
-Run VPN script 
+A Simple but effective Script that is able to run rasperberry pi and With Port Forwarding can provide High Security
+And Ad blocker under development.
+
+#Installation 
+git clone https://github.com/Uvansankar2003/FinalYear_project.git
+chmod +x script.sh 
 Scan QR code
-VPN activated
+
+#Under Development
 IDS and IPS runs(Under Development)
 HoneyPOT in Port 80 (Under Development)
 Blocks access to Website in Local network (Under Development)
