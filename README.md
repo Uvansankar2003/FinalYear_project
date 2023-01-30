@@ -1,8 +1,7 @@
 # FinalYear_project
 <p align="center">
   <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="350" title="hover text">
-  <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="350" alt="accessibility text">
-</p>
+ </p>
 ON rasperberry pi
 Run VPN script 
 Scan QR code
