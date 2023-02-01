@@ -25,9 +25,7 @@ gem install sinatra
 
 ## Under Development
 
-IDS and IPS runs(Under Development)
-
-HoneyPOT in Port 80 (Under Development)
+IDS and IPS System(Under Development)
 
 Blocks access to Website in Local network (Under Development)
 
