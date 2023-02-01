@@ -12,7 +12,19 @@ chmod +x script.sh
 Scan QR code
 ```
 
+## Honey pot 
+ In order to run the Honeypot 
+ Give permission to the file and install Ruby and its package sinatra
+ Type the commands in terminal
+```bash
+sudo apt-get update
+sudo apt-get install ruby-full
+chmod +x Honey_Pot.rb
+gem install sinatra
+```
+
 ## Under Development
+
 IDS and IPS runs(Under Development)
 
 HoneyPOT in Port 80 (Under Development)
