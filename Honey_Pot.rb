@@ -19,7 +19,7 @@ get '/' do
   log_entry << "Referer: #{request.referer}\n"
   log_file.write(log_entry)
 
-  #No Access
+  #HTML Code change this to display what you need
   html = <<-HTML
   <html>
    <head>
@@ -36,10 +36,10 @@ get '/' do
         font-size: 18px;
         margin-top: 20px;
       }
-    </style>
-  </head>
+    </style>    
+  </head> 
   <body>
-    <h1>Welcome Bro </h1>
+    <h1>Welcome Bro ( Change this to display what you need )</h1>
     <p>Sry Bro No Acess </p>
   </body>
   </html>
