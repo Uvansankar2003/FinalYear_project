@@ -17,6 +17,9 @@ get '/' do
   log_entry = "Triggered by #{request.ip} at #{Time.now}\n"
   log_entry << "User-Agent: #{request.user_agent}\n"
   log_entry << "Referer: #{request.referer}\n"
+  # Change the file(audio.mp3) if you want to play any audio
+  # system("echo -ne '\007'")
+  system("vlc-wrapper audio.mp3")
   log_file.write(log_entry)
 
   #HTML Code change this to display what you need
