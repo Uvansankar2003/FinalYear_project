@@ -30,3 +30,7 @@ IDS and IPS System(Under Development)
 Blocks access to Website in Local network (Under Development)
 
 Blocks access to SSH port from every where(Under Development)
+
+## Logs
+
+The Log files are stored in the Log.txt file to extract the logs you can use the script 
