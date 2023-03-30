@@ -22,14 +22,12 @@ sudo apt-get install ruby-full
 chmod +x Honey_Pot.rb
 gem install sinatra
 ```
+IDS and IPS System is also intergrated.
 
-## Under Development
+## Futher Scope 
+Can be deployed in local network to route traffic 
+Can be deployed in Industrial Environment to protect devices at low cost
 
-IDS and IPS System(Under Development)
-
-Blocks access to Website in Local network (Under Development)
-
-Blocks access to SSH port from every where(Under Development)
 
 ## Logs
 
