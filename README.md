@@ -24,6 +24,17 @@ gem install sinatra
 ```
 IDS and IPS System is also intergrated.
 
+## Pi Hole
+To install the Ad-blocker for the networks
+just follow the commands
+```bash
+git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
+cd "Pi-hole/automated install/"
+sudo bash basic-install.sh
+OR 
+curl -sSL https://install.pi-hole.net | bash
+```
+
 ## Futher Scope 
 Can be deployed in local network to route traffic 
 Can be deployed in Industrial Environment to protect devices at low cost
